@@ -1,0 +1,16 @@
+# env
+.venv/
+venv/
+
+# notebooks
+.ipynb_checkpoints/
+
+# data & artifacts
+data/
+outputs/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
